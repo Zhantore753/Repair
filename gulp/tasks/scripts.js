@@ -1,6 +1,9 @@
 const jsfiles = [
   $.path.jquery,
+  $.path.scrolloverflow,
+  $.path.fullpage,
   $.path.js,
+
 ];
 
 module.exports = function () {
